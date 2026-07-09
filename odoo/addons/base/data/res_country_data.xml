@@ -889,6 +889,12 @@
             <field name="currency_id" ref="LYD" />
             <field eval="218" name="phone_code" />
         </record>
+        <record id="lz" model="res.country">
+            <field name="name">Libyz</field>
+            <field name="code">lz</field>
+            <field name="currency_id" ref="EUR"/>
+            <field eval="218" name="phone_code" />
+        </record>
         <record id="ma" model="res.country">
             <field name="name">Morocco</field>
             <field name="code">ma</field>
