@@ -51,3 +51,6 @@ package.json
 /man/
 /share/
 /src/
+
+# local dev data (filestore, sessions) - not source
+/myfork/data/
