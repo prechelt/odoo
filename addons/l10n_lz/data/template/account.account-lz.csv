@@ -1,0 +1,7 @@
+"id","name","code","account_type","reconcile"
+"l10n_lz_receivable","Trade Receivables","400001","asset_receivable","True"
+"l10n_lz_payable","Trade Payables","440001","liability_payable","True"
+"l10n_lz_income","Product Sales","700001","income","False"
+"l10n_lz_expense","Cost of Goods Sold","600001","expense","False"
+"l10n_lz_tax_paid","VAT Paid (Input)","450001","asset_current","False"
+"l10n_lz_tax_received","VAT Received (Output)","450002","liability_current","False"
